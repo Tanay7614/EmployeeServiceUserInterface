@@ -9,7 +9,6 @@ body{
     margin: 0px auto;
     padding: 2em;
 }
-
 .headerContainer {
     display: flex;
     flex-flow: column wrap;
@@ -19,11 +18,9 @@ body{
     padding: 20px;
     margin-bottom: 20px;
 }
-
 form{
     margin-top: 10px;
 }
-
 div{
     margin-bottom: 20px;
     display: flex;
