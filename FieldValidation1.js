@@ -8,6 +8,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         }
         try {
             (new EmployeeData()).name = name.value;
+            
             textError.textContent = "";
         } catch (e) {
             textError.textContent = e;
