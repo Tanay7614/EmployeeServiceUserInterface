@@ -19,6 +19,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     output.textContent = salary.value;
     salary.addEventListener('input', function() {
         output.textContent = salary.value;
+        
     });
 
     const date = document.querySelector('#date');
