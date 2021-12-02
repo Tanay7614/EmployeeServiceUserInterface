@@ -31,6 +31,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
             setTextValue('.date-error', "");
         } catch (e) {
             setTextValue('.date-error', e);
+            
         }
     });
 });
