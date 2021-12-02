@@ -24,6 +24,7 @@ class EmployeeData {
 
     set gender(gender) {
         this._gender = gender;
+        
     }
 
     get department() {
