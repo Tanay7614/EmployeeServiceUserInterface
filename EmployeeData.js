@@ -16,6 +16,7 @@ class EmployeeData {
 
     set profilePic(profilePic) {
         this._profilePic = profilePic;
+        
     }
 
     get gender() {
