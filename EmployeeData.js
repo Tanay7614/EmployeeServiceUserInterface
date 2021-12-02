@@ -32,6 +32,7 @@ class EmployeeData {
 
     set department(department) {
         this._department = department;
+        
     }
 
     get salary() {
