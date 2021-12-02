@@ -12,6 +12,7 @@ class EmployeeData {
 
     get profilePic() {
         return this._profilePic;
+        
     }
 
     set profilePic(profilePic) {
