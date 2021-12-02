@@ -28,6 +28,7 @@ class EmployeeData {
 
     get department() {
         return this._department;
+        
     }
 
     set department(department) {
